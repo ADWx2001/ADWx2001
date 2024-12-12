@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Project_Bodima**
 
-- 🌱 I’m currently learning **React Native | .Net Framework**
+- 🌱 I’m currently learning **Flutter | FastAPI**
 
 - 📫 How to reach me **asankadilshanme@gmail.com**
 
