@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adwx2001&label=Profile%20views&color=0e75b6&style=flat" alt="adwx2001" /> </p>
 
-- 🔭 I’m currently working on **Project_Bodima**
+- 🔭 I’m currently working on **Gamified Therapy System For Children**
 
-- 🌱 I’m currently learning **Flutter | FastAPI**
+- 🌱 I’m currently learning **IOT |Unreal Engine| Game Development**
 
 - 📫 How to reach me **asankadilshanme@gmail.com**
 
